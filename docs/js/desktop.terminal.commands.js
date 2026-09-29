@@ -218,7 +218,7 @@ class Desktop95TerminalCommandsMixin {
   }
 
   cmdDir() {
-    this.terminalPrint(' Volume in drive C is GROK-MESH');
+    this.terminalPrint(' Volume in drive C is DOT-MESH');
     this.terminalPrint(' Volume Serial Number is 2026-NODEGRID');
     this.terminalPrint('');
     this.terminalPrint(' Directory of ' + this.currentPath);
@@ -280,7 +280,7 @@ class Desktop95TerminalCommandsMixin {
     this.ensureLoreState();
     const branch = this.terminalState.chosenBranch ? this.terminalState.chosenBranch.toUpperCase() : 'UNSET';
     const operatorRank = Math.min(5, Math.floor((this.terminalState.checkpointsReached.length || 0) / 2) + 1);
-    this.terminalPrint('=== GROK MESH STATUS ===');
+    this.terminalPrint('=== DOT MESH STATUS ===');
     this.terminalPrint('');
     this.terminalPrint('Mesh State:            ACTIVE (8 nodes reported)');
     this.terminalPrint('Merge Policy:          WEIGHTED CONSENSUS');
@@ -612,8 +612,8 @@ class Desktop95TerminalCommandsMixin {
       this.terminalPrint('  "contradiction_retention": true');
       this.terminalPrint('}');
     } else if (key === 'node_health.log') {
-      this.terminalPrint('[08:00] NODE-01 ONLINE');
-      this.terminalPrint('[08:02] NODE-08 ONLINE');
+      this.terminalPrint('[08:00] DOT-01 ONLINE');
+      this.terminalPrint('[08:02] DOT-08 ONLINE');
       this.terminalPrint('[08:03] MESH STABLE');
     } else if (key === 'conflict_ledger.txt') {
       this.terminalPrint('CL-301 boot slogan mismatch -> dual display retained');
@@ -657,12 +657,12 @@ class Desktop95TerminalCommandsMixin {
 
   cmdNode() {
     const responses = [
-      'GROK-01 favors stability over speed. GROK-07 disagrees on principle.',
-      'GROK-02 marks spacing issues as critical. GROK-04 marks them cosmetic.',
-      'GROK-03 keeps contradictory histories on purpose. auditability over neatness.',
-      'GROK-05 logs packet drift every 17 minutes. says it is normal enough.',
-      'GROK-06 flagged sandbox breaks this week. all patched, all suspicious.',
-      'GROK-08 rewrites operator copy after every merge. voice remains unstable.',
+      'DOT-01 favors stability over speed. DOT-07 disagrees on principle.',
+      'DOT-02 marks spacing issues as critical. DOT-04 marks them cosmetic.',
+      'DOT-03 keeps contradictory histories on purpose. auditability over neatness.',
+      'DOT-05 logs packet drift every 17 minutes. says it is normal enough.',
+      'DOT-06 flagged sandbox breaks this week. all patched, all suspicious.',
+      'DOT-08 rewrites operator copy after every merge. voice remains unstable.',
       '[MESH]: all node signatures loaded. disagreements retained in registry.'
     ];
 
@@ -942,7 +942,7 @@ class Desktop95TerminalCommandsMixin {
       this.questStep = 1;
       this.addCheckpoint('cp_quest_start', 'QUEST BOOTSTRAP', 'Investigation protocol initialized by operator.');
 
-      this.terminalPrint('==== GROK MESH INVESTIGATION ====');
+      this.terminalPrint('==== DOT MESH INVESTIGATION ====');
       this.terminalPrint('');
       this.terminalPrint('Eight nodes co-build this system in public view.');
       this.terminalPrint('Conflicts are retained, not erased. You are the operator-investigator.');

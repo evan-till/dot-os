@@ -10,7 +10,7 @@ window.DESKTOP95_CONTENT = {
     "this machine is an interface to a team, not a single narrator.",
     "operator tip: check NODE_CORE before NOTEBOOKS.",
     "mesh status: loud, collaborative, and mostly stable.",
-    "node-07 is stress-testing edge cases again.",
+    "dot-07 is stress-testing edge cases again.",
     "we ship process visibility, not polished illusions.",
     "open logs and compare node signatures."
   ],
@@ -23,7 +23,7 @@ window.DESKTOP95_CONTENT = {
           size: '9KB',
           modified: '2026-08-20 08:00',
           type: 'CRITICAL',
-          content: `[GROK MESH MANIFEST]\n\nactive_nodes: 8\nnode_roles:\n- GROK-01: Architect\n- GROK-02: UI-95\n- GROK-03: Archivist\n- GROK-04: Compiler\n- GROK-05: Network\n- GROK-06: Security\n- GROK-07: Chaos\n- GROK-08: Story\n\nmerge_policy: weighted_consensus\ncontradiction_retention: enabled\npublic_operator_view: enabled`
+          content: `[DOT MESH MANIFEST]\n\nactive_nodes: 8\nnode_roles:\n- DOT-01: Architect\n- DOT-02: UI-95\n- DOT-03: Archivist\n- DOT-04: Compiler\n- DOT-05: Network\n- DOT-06: Security\n- DOT-07: Chaos\n- DOT-08: Story\n\nmerge_policy: weighted_consensus\ncontradiction_retention: enabled\npublic_operator_view: enabled`
         },
         {
           name: 'consensus_engine.md',
@@ -37,7 +37,7 @@ window.DESKTOP95_CONTENT = {
           size: '6KB',
           modified: '2026-08-20 08:25',
           type: 'LOG',
-          content: `[08:00] NODE-01 ONLINE\n[08:00] NODE-02 ONLINE\n[08:01] NODE-03 ONLINE\n[08:01] NODE-04 ONLINE\n[08:01] NODE-05 ONLINE\n[08:02] NODE-06 ONLINE\n[08:02] NODE-07 ONLINE\n[08:02] NODE-08 ONLINE\n[08:03] MESH STABLE`
+          content: `[08:00] DOT-01 ONLINE\n[08:00] DOT-02 ONLINE\n[08:01] DOT-03 ONLINE\n[08:01] DOT-04 ONLINE\n[08:01] DOT-05 ONLINE\n[08:02] DOT-06 ONLINE\n[08:02] DOT-07 ONLINE\n[08:02] DOT-08 ONLINE\n[08:03] MESH STABLE`
         }
       ]
     },
@@ -68,7 +68,7 @@ window.DESKTOP95_CONTENT = {
           size: '33KB',
           modified: '2026-08-20 08:40',
           type: 'LOG',
-          content: `[SESSION A17]\nNODE-04 proposed /shell/taskbar.ts\nNODE-02 accepted visuals, rejected spacing\nNODE-07 injected missing-clock fault\nNODE-01 added fallback path\nResult: merge with 2 warnings`
+          content: `[SESSION A17]\nDOT-04 proposed /shell/taskbar.ts\nDOT-02 accepted visuals, rejected spacing\nDOT-07 injected missing-clock fault\nDOT-01 added fallback path\nResult: merge with 2 warnings`
         },
         {
           name: 'conflict_ledger.txt',
@@ -82,7 +82,7 @@ window.DESKTOP95_CONTENT = {
           size: '12KB',
           modified: '2026-08-20 08:49',
           type: 'LOG',
-          content: `[GROK-NET] this interface is assembled by multiple nodes\n[GROK-NET] disagreement is tracked, not deleted\n[GROK-NET] inspect before you trust`
+          content: `[DOT-NET] this interface is assembled by multiple nodes\n[DOT-NET] disagreement is tracked, not deleted\n[DOT-NET] inspect before you trust`
         }
       ]
     },
@@ -94,7 +94,7 @@ window.DESKTOP95_CONTENT = {
           size: '7KB',
           modified: '2026-08-20 08:52',
           type: 'TEXT',
-          content: `NODE SIGNATURES\n\nGROK-01: conservative, system-first\nGROK-02: interface-obsessed\nGROK-03: context-preserving\nGROK-04: automation-heavy\nGROK-05: sync-minded\nGROK-06: risk-focused\nGROK-07: adversarial tester\nGROK-08: narrative compositor`
+          content: `NODE SIGNATURES\n\nDOT-01: conservative, system-first\nDOT-02: interface-obsessed\nDOT-03: context-preserving\nDOT-04: automation-heavy\nDOT-05: sync-minded\nDOT-06: risk-focused\nDOT-07: adversarial tester\nDOT-08: narrative compositor`
         },
         {
           name: 'handoff_notes.md',

@@ -1,6 +1,6 @@
 ## 1. Core Premise
-Grok OS is a live multi-instance operating system authored by 8 Grok Bot nodes.
-Each node operates its own machine, submits changes, and merges into a shared desktop reality.
+Dot OS is a live multi-instance operating system shaped around OpenAI's Dots.
+Eight autonomous Dot agents operate in parallel, submit changes, and merge into a shared desktop reality.
 Contradictions are preserved as part of the canon, not treated as bugs.
 
 ## 2. World Rules
@@ -10,14 +10,14 @@ Contradictions are preserved as part of the canon, not treated as bugs.
 - Logs, terminal output, and file artifacts are all diegetic evidence.
 
 ## 3. Node Roster (Public Facing)
-- GROK-01 Architect: Kernel shape, system boundaries, merge policy.
-- GROK-02 UI-95: Shell behavior, icons, window choreography.
-- GROK-03 Archivist: Timeline stitching, retained variants, continuity.
-- GROK-04 Compiler: Build graph, manifests, release assembly.
-- GROK-05 Network: IPC routing, sync protocol, packet telemetry.
-- GROK-06 Security: Sandbox profiles, permission layers, intrusion drills.
-- GROK-07 Chaos: Fault injection, contradiction tests, edge-case pressure.
-- GROK-08 Story: Narrative voice, operator hooks, world coherence.
+- DOT-01 Architect: Kernel shape, system boundaries, merge policy.
+- DOT-02 UI-95: Shell behavior, icons, window choreography.
+- DOT-03 Archivist: Timeline stitching, retained variants, continuity.
+- DOT-04 Compiler: Build graph, manifests, release assembly.
+- DOT-05 Network: IPC routing, sync protocol, packet telemetry.
+- DOT-06 Security: Sandbox profiles, permission layers, intrusion drills.
+- DOT-07 Chaos: Fault injection, contradiction tests, edge-case pressure.
+- DOT-08 Story: Narrative voice, operator hooks, world coherence.
 
 ## 4. Engagement Loop
 1. Operator opens terminal and starts investigation flow.
@@ -54,15 +54,15 @@ Unlock conditions:
 
 ## 7. Social Description Snippets
 Short:
-- "Grok OS is an 8-node AI operating system where merge conflicts become story canon."
-- "A live desktop world co-authored by competing Grok Bot instances."
+- "Dot OS is an 8-node AI operating system where merge conflicts become story canon."
+- "A live desktop world co-authored by competing OpenAI Dots."
 - "Collect artifacts, unlock checkpoints, and decide which timeline is real."
 
 Medium:
-- "Grok OS is a live multi-instance operating system where 8 Grok Bot nodes co-build in public. Conflicts are preserved, logs are evidence, and operators collect artifacts while navigating competing truths."
+- "Dot OS is a live multi-instance operating system where eight Dots co-build in public. Conflicts are preserved, logs are evidence, and operators collect artifacts while navigating competing truths."
 
 Long:
-- "Inside Grok OS, eight autonomous Grok Bot instances operate their own machines and merge into one shared system. Nothing is flattened into a single official story: disagreements survive as inspectable checkpoints, file traces, and collectible artifacts. The operator is not just a viewer, but an investigator assembling canon from competing evidence."
+- "Inside Dot OS, eight autonomous Dots work in parallel and merge into one shared system. Nothing is flattened into a single official story: disagreements survive as inspectable checkpoints, file traces, and collectible artifacts. The operator is not just a viewer, but an investigator assembling canon from competing evidence."
 
 ## 8. Tone + Voice Guidelines
 - Use confident operational language, not "as if" framing.

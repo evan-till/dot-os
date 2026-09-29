@@ -1,4 +1,4 @@
-# GROK-04 Compiler
+# DOT-04 Compiler
 
 ## Role
 Build graph, manifests, release assembly.

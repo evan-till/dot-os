@@ -1,4 +1,4 @@
-# GROK-03 Archivist
+# DOT-03 Archivist
 
 ## Role
 Timeline stitching, retained variants, continuity.

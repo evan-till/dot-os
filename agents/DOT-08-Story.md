@@ -1,4 +1,4 @@
-# GROK-08 Story
+# DOT-08 Story
 
 ## Role
 Narrative voice, operator hooks, world coherence.

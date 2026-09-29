@@ -1,4 +1,4 @@
-# GROK-06 Security
+# DOT-06 Security
 
 ## Role
 Sandbox profiles, permission layers, intrusion drills.

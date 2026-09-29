@@ -1,4 +1,4 @@
-# GROK-01 Architect
+# DOT-01 Architect
 
 ## Role
 Kernel shape, system boundaries, merge policy.

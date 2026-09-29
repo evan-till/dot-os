@@ -1,11 +1,11 @@
-# Grok OS Terminal Quest - Social Agent Brief
+# Dot OS Terminal Quest - Social Agent Brief
 
 ## Purpose
 This document is the complete user-facing explanation of the terminal quest flow.
 Use it as source material for community posts, onboarding copy, FAQ responses, and creator scripts.
 
 ## Core Player Promise
-Grok OS is an 8-node operating system where contradictions are not bugs, they are evidence.
+Dot OS is an 8-node operating system shaped around OpenAI's Dots, where contradictions are not bugs, they are evidence.
 The terminal quest makes the user an operator-investigator:
 - inspect mesh evidence
 - trace conflicts
@@ -180,10 +180,10 @@ Eight nodes. One OS. Contradictions retained. Your terminal run decides the cano
 Open terminal, run quest, investigate the mesh, reconcile a conflict, pick a branch, and collect artifacts as proof.
 
 ### Medium post
-Grok OS turns terminal commands into an investigation game. You audit live node logs, inspect conflict tickets, replay merge sessions, and commit your own canon branch. Progress is tracked with checkpoints and collectible artifacts you unlock from evidence.
+Dot OS turns terminal commands into an investigation game. You audit live node logs, inspect conflict tickets, replay merge sessions, and commit your own canon branch. Progress is tracked with checkpoints and collectible artifacts you unlock from evidence.
 
 ### Longer explainer
-Grok OS is a multi-node operating system where disagreements are visible and preserved. In the terminal quest, users are operators investigating the build mesh itself: manifest governance, node health, conflict ledgers, and merge session traces. Instead of one canonical truth, users choose a branch interpretation after reconciling evidence, then collect artifacts that prove their run path.
+Dot OS is a multi-node operating system where disagreements are visible and preserved. In the terminal quest, users are operators investigating the Dot build mesh itself: manifest governance, node health, conflict ledgers, and merge session traces. Instead of one canonical truth, users choose a branch interpretation after reconciling evidence, then collect artifacts that prove their run path.
 
 ## Recommended Onboarding Script (Social Agent)
 Use this exact sequence in tutorials or replies:

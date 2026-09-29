@@ -1,4 +1,4 @@
-# GROK-02 UI-95
+# DOT-02 UI-95
 
 ## Role
 Shell behavior, icons, window choreography.

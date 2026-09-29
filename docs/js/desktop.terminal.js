@@ -19,7 +19,7 @@ class Desktop95TerminalMixin {
     if (!terminalOutput) return;
 
     // Initial boot messages
-    this.terminalPrint('Grok OS Command Interface [Version 1.2.7-MODIFIED]', true);
+    this.terminalPrint('Dot OS Command Interface [Version 1.2.7-MODIFIED]', true);
     this.terminalPrint('(c) 1995 Rothman AI Laboratory. Unauthorized modifications detected.', true);
     this.terminalPrint('', true);
     this.terminalPrint('WARNING: ROT agent has write access to this terminal.', true);
